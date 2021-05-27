@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Akshay Garg
-- 👀 I’m interested in software development and learning about new technologies.
-- 🌱 I’m currently learning Java Core, Apex for Salesforce.
+- 👀 I’m a Mechanical Engineer, looking to work towards software development and learning about new technologies.
+- 🌱 I’m currently learning Pyhton, Java Core and Apex for Salesforce.
 - 💞️ I’m looking to collaborate on Salesforce developer projects.
-- 📫 How to reach me at my mail id, shubhgupta8@gmail.com .
+- 📫 Rreach me at my mail id, shubhgupta8@gmail.com .
 
 <!---
 akshaygarg2496/akshaygarg2496 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
